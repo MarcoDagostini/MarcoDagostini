@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação na UTFPR. Comecei na área durante o e
 
 ## 🧠 Um pouco sobre mim
 
-* 🎓 Estudante do **Bacharelado em Ciência da Computação - UTFPR**
+* 🎓 Estudante do **Bacharelado em Ciência da Computação - UFSC**
 * 💡 Tenho afinidade com **lógica de programação e algoritmos**
 * 🏆 Participei da **Olimpíada Brasileira de Informática (OBI)**
 * 📚 Fui bolsista do projeto:
