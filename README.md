@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Marco Antonio
 
-Sou estudante de Ciência da Computação na UTFPR. Comecei na área durante o ensino médio técnico no Instituto Federal do Rio Grande do Sul e, desde então, venho estudando programação, aprendendo com a prática e buscando evoluir constantemente.
+Sou estudante de Ciência da Computação na UFSC. Comecei na área durante o ensino médio técnico no Instituto Federal do Rio Grande do Sul e, desde então, venho estudando programação, aprendendo com a prática e buscando evoluir constantemente.
 
 ---
 
