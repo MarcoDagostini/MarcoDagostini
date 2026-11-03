@@ -1,9 +1,9 @@
-Prazer, Marco Antonio!
+# Prazer, Marco Dagostini!
 
-Sou estudante de Ciência da Computação na Universidade Federal de Santa Catarina (UFSC).
-Possuo diploma técnico em informática pelo Instituto Federal de Educação,Ciência e Tecnologia do Rio Grande do Sul - Campus Erechim.
+#### Sou graduando em Ciência da Computação na Universidade Federal de Santa Catarina (UFSC).
+#### Possuo diploma técnico em informática pelo Instituto Federal de Educação,Ciência e Tecnologia do Rio Grande do Sul - Campus Erechim.
 ---
-Areas de interesse
+### Areas de interesse
 
 * Programação competitiva
 * Análise de dados
@@ -16,7 +16,7 @@ Areas de interesse
 
 ### Linguagens
 
-* **Java**
+* **Java, SQL, Flutter, Dart, UML, **
 * **Python** Análise de dados e WebScraping.
 * **HTML/CSS/JS** — para criação web
 
