@@ -16,7 +16,7 @@
 
 ### Linguagens
 
-* **Java, SQL, Flutter, Dart, UML, **
+* **Java, SQL, Flutter, Dart, UML**
 * **Python** Análise de dados e WebScraping.
 * **HTML/CSS/JS** — para criação web
 
