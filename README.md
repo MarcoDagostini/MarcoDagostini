@@ -1,55 +1,39 @@
-# 👋 Olá, eu sou o Marco Antonio
+Prazer, Marco Antonio!
 
-Sou estudante de Ciência da Computação na UFSC. Comecei na área durante o ensino médio técnico no Instituto Federal do Rio Grande do Sul e, desde então, venho estudando programação, aprendendo com a prática e buscando evoluir constantemente.
+Sou estudante de Ciência da Computação na Universidade Federal de Santa Catarina (UFSC).
+Possuo diploma técnico em informática pelo Instituto Federal de Educação,Ciência e Tecnologia do Rio Grande do Sul - Campus Erechim.
+---
+Areas de interesse
+
+* Programação competitiva
+* Análise de dados
+* Automatização de processos
+* WebScraping de dados abertos
 
 ---
 
-## 🧠 Um pouco sobre mim
-
-* 🎓 Estudante do **Bacharelado em Ciência da Computação - UFSC**
-* 💡 Tenho afinidade com **lógica de programação e algoritmos**
-* 🏆 Participei da **Olimpíada Brasileira de Informática (OBI)**
-* 📚 Fui bolsista do projeto:
-  **“Grupos de Estudos de Programação: Criando Equipes para a Olimpíada Brasileira de Informática”**
-* 📈 Acredito muito em aprendizado contínuo, prática constante e evolução real
-
----
-
-## 💻 O que eu gosto de fazer
-
-* Resolver problemas e quebrar a cabeça com algoritmos
-* Estudar programação competitiva
-* Transformar teoria em código
-* Aprender com erros e refatorar soluções
-
----
-
-## 🛠️ Tecnologias que utilizo
+##  Tecnologias 
 
 ### Linguagens
 
-* **Java — foco em algoritmos e competição**
-* **HTML/CSS/JS** — projetos pessoais e criação web
-* **JavaScript** — projetos e aprendizado contínuo
+* **Java**
+* **Python** Análise de dados e WebScraping.
+* **HTML/CSS/JS** — para criação web
 
 ### Conceitos
 
 * Estruturas de dados
-* Algoritmos
+* Algoritmos clássicos
 * Raciocínio lógico
 * Programação competitiva
+* Normalização e análise de dados.
 
 ### Ferramentas
 
 * Git & GitHub
 * Visual Studio Code
 * Linux / Windows
+* Docker
+* Pacote Office (Avançado)
+  
 
----
-
-## 🎯 Objetivos
-
-* Evoluir cada vez mais em **programação e algoritmos**
-* Criar projetos mais organizados e bem documentados
-* Ingressar no ensino superior na área de tecnologia
-* Construir um GitHub que represente quem eu sou hoje (e quem quero me tornar)
